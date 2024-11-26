@@ -1,3 +1,12 @@
+Project Description
+This project focuses on solving various Linear Programming (LP) problems using Python. LP is a mathematical approach used to optimize a linear objective function, subject to a set of linear constraints. The project explores real-world scenarios such as maximizing profits, minimizing costs, optimizing resource allocations, and planning budgets.
+The Python code utilizes libraries like NumPy, SciPy, and Matplotlib for computation and visualization. Each problem involves defining variables, constraints, and an objective function, followed by solving and visualizing the results.
+
+The primary objective of this project is to:
+- Model and solve practical optimization problems.
+- Demonstrate the use of linear programming in various domains like manufacturing, production, resource allocation, and budgeting.
+- Provide graphical representations of constraints, feasible regions, and optimal solutions.
+
 A detailed description of the steps and methodology of running the puthon code
 - Define the Decision Variables: These represent the quantities that we need to optimize (e.g., the number of units of product A and B, or hours of labor and material used).
 - Set the Objective Function: The objective function represents the goal of the problem (e.g., maximize profit or minimize cost).
